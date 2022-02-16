@@ -2,8 +2,12 @@
 content_type: resource
 description: This file contains information about roche potential, features of the
   dimensionless form of roche potential and derivatives.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-282j-introduction-to-astronomy-spring-2006/100a06f6289527000f98d013f6f9c25e_roche.pdf
+file: /media/courses/8-282j-introduction-to-astronomy-spring-2006/100a06f6289527000f98d013f6f9c25e_roche.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: roche.pdf
 uid: 100a06f6-2895-2700-0f98-d013f6f9c25e

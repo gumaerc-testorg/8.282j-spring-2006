@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-282j-introduction-to-astronomy-spring-2006/050d6128462a19c32ab84e21af2261c8_quiz1sol.pdf
+file: /media/courses/8-282j-introduction-to-astronomy-spring-2006/050d6128462a19c32ab84e21af2261c8_quiz1sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: quiz1sol.pdf
 uid: 050d6128-462a-19c3-2ab8-4e21af2261c8

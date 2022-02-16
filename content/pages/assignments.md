@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 69a7416e-f890-2958-1833-5072202dfe0a
 ---
@@ -315,9 +318,7 @@ Feeding a Black Hole
   
 Distance-Redshift Relation  
   
-H0, _τ_0, and _ρ_crit  
-  
-Expanding Balloon Analogy  
+H{{< sub "0" >}}, _τ_{{< sub "0" >}}, and _ρ_{{< sub "crit  \n  \n" >}}Expanding Balloon Analogy  
   
 Scale Factor and Age vs. Redshift  
   
