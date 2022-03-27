@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ff43e213-2962-e107-d856-025d4254f3b9
 resourcetype: Document
 title: kepler_prob.pdf
 uid: 93b6bc69-9c65-3da0-efd6-7170a90c7c81

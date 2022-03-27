@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ff43e213-2962-e107-d856-025d4254f3b9
 resourcetype: Document
 title: xray_ref.pdf
 uid: 7116e29c-1ca6-dd07-f798-c7486a77bbe4

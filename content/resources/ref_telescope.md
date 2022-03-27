@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ff43e213-2962-e107-d856-025d4254f3b9
 resourcetype: Document
 title: ref_telescope.pdf
 uid: efad01a8-95b7-b749-14bf-bcb0f874047f

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ff43e213-2962-e107-d856-025d4254f3b9
 resourcetype: Document
 title: thermal_history.pdf
 uid: 40541211-4015-9bcd-5f9e-2ae64e377a58

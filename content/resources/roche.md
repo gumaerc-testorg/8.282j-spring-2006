@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ff43e213-2962-e107-d856-025d4254f3b9
 resourcetype: Document
 title: roche.pdf
 uid: 100a06f6-2895-2700-0f98-d013f6f9c25e
