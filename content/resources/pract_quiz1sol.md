@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-282j-introduction-to-astronomy-spring-2006/bdeac890594e219bfec79086606acfb8_pract_quiz1sol.pdf
+file: /courses/8-282j-introduction-to-astronomy-spring-2006/bdeac890594e219bfec79086606acfb8_pract_quiz1sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
