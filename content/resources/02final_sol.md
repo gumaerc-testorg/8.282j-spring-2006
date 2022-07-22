@@ -5,6 +5,7 @@ file: /courses/8-282j-introduction-to-astronomy-spring-2006/2c2fbabc2eeef58f2e59
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

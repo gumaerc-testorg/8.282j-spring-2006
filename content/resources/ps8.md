@@ -7,6 +7,7 @@ file: /courses/8-282j-introduction-to-astronomy-spring-2006/bc0a3b70f74b210303c8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: ps8.pdf
 uid: bc0a3b70-f74b-2103-03c8-4e5ea3d535c2
 ---
 This file contains problems based on constructing the galactic rotation curve, Oort constants, kinematic distances, simplified model of a star, fueling the sun, main-sequence lifetimes, nuclear binding energies.
-

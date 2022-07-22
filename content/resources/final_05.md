@@ -5,6 +5,7 @@ file: /courses/8-282j-introduction-to-astronomy-spring-2006/c216e453cf1389a135ce
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: final_05.pdf
 uid: c216e453-cf13-89a1-35ce-63283cb8bc20
 ---
 This file contains problems in 2005 final exam.
-

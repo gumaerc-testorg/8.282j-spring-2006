@@ -5,6 +5,7 @@ file: /courses/8-282j-introduction-to-astronomy-spring-2006/cfaf62da9040799f9879
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: q1_06_soln.pdf
 uid: cfaf62da-9040-799f-9879-2416ca162d6f
 ---
 This file contains solutions to the problems in 2006 quiz 1.
-
