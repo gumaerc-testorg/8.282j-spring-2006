@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains problem sets for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 69a7416e-f890-2958-1833-5072202dfe0a
 ---
@@ -40,7 +44,7 @@ Solar Power
 Power Output
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps1))
+({{% resource_link e355add7-e9bf-77a8-1805-9d1f94981ebe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,7 +66,7 @@ Geosynchronous Satellite
 Dynamical Timescale of the Earth
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps2))
+({{% resource_link ff556f5b-1546-1c98-5c0c-537ce51ebdef "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +90,7 @@ Refraction
 Optics Problem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps3))
+({{% resource_link 0c2abfdb-3d15-9985-74e1-99d4294e5475 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,7 +114,7 @@ Short Optics Problems
 Snell's Law Derived from Fermat's Principle
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps4))
+({{% resource_link 227bf4c5-95f2-1e5f-d513-32638c6d6daf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +132,7 @@ Moving Cluster Method - The Hyades Cluster
 Binary Orbit 1, 2, 3, and 4
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps5))
+({{% resource_link a41fab33-02e5-0f29-c700-7f0191355fdc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +156,7 @@ Eclipsing Binary
 Binary Radio Pulsar
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps6))
+({{% resource_link dd75ee9c-328c-56de-f95c-7ea794170ec5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +178,7 @@ Absorption in the Galactic Plane
 Rotation Curve
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps7))
+({{% resource_link 6a876e98-e18c-7d0f-52c7-1f8a9d57a7d5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +202,7 @@ Main-Sequence Lifetimes
 Nuclear Binding Energies
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps8))
+({{% resource_link bc0a3b70-f74b-2103-03c8-4e5ea3d535c2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -224,7 +228,7 @@ Pulsar Spin-Down
 Blackbody Radiation from a Neutron Star
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps9))
+({{% resource_link 6160efb9-85b5-8994-20da-023d6177f725 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -246,7 +250,7 @@ Cepheid Variables as Distance Indicators
 Variations in the Radius of Cepheid Variables
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps10))
+({{% resource_link 26c4cdf1-b6b4-6c9e-4f9e-534fcea9a4ad "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -272,7 +276,7 @@ Short Problems
 Planetary Nebula
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps11))
+({{% resource_link a00b16e2-5d32-bcec-37db-354398184cb6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -298,7 +302,7 @@ Free-Fall Time for a Cluster of Galaxies
 Luminosity Function of Galaxies in Rich Clusters
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps12))
+({{% resource_link 36029eb6-2956-b495-1077-3c0ee20c35c9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -315,16 +319,14 @@ Feeding a Black Hole
   
 Distance-Redshift Relation  
   
-H0, _τ_0, and _ρ_crit  
-  
-Expanding Balloon Analogy  
+H{{< sub "0" >}}, _τ_{{< sub "0" >}}, and _ρ_{{< sub "crit  \n  \n" >}}Expanding Balloon Analogy  
   
 Scale Factor and Age vs. Redshift  
   
 Dust in the Universe
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps13))
+({{% resource_link beb4a38a-3dd6-2b4e-e426-081a0ba05e2b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -354,10 +356,10 @@ SOLUTIONS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-The Kepler Problem ([PDF]({{< baseurl >}}/resources/compset1))
+The Kepler Problem ({{% resource_link 648cbfa1-ac01-e272-a3cc-fbb3ecb2f2f2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.5 MB]({{< baseurl >}}/resources/compset1_soln))
+({{% resource_link 7a472651-95cf-a97c-ca74-ed4f2c89c41b "PDF - 2.5 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -366,10 +368,10 @@ The Kepler Problem ([PDF]({{< baseurl >}}/resources/compset1))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Stellar Polytropes ([PDF]({{< baseurl >}}/resources/compset2))
+Stellar Polytropes ({{% resource_link d8aeb5ab-67c6-abfc-2a85-43edea1c9d68 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.6 MB]({{< baseurl >}}/resources/compset2_soln))
+({{% resource_link 8534dd22-a013-fe52-a32e-5fb8b0c34016 "PDF - 1.6 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -378,7 +380,7 @@ Stellar Polytropes ([PDF]({{< baseurl >}}/resources/compset2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-White Dwarf Models ([PDF]({{< baseurl >}}/resources/compset3))
+White Dwarf Models ({{% resource_link 5a5ca695-0dcb-17c3-2041-c244a4ebae12 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
