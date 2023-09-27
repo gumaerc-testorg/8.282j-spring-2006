@@ -2,12 +2,12 @@
 content_type: page
 description: This section contains links to other external sites of relevance to the
   course.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: af4b7bf5-5336-0264-643d-47450ca0d7b1
 ---
-
 [Astronomy Picture of the Day](http://antwrp.gsfc.nasa.gov/apod/astropix.html) (APOD)
 
 [Gallery of Galaxy Images](http://www.noao.edu/outreach/aop/observers/galaxy.html)
@@ -28,7 +28,7 @@ uid: af4b7bf5-5336-0264-643d-47450ca0d7b1
 
 [Instruments of Astronomer Tycho Brahe](http://www.juliantrubin.com/bigten/tycho_brahe.html)
 
-[Sketches of Astronomer Galileo Galilei](http://www.pd.astro.it/)
+[Sketches of Astronomer Galileo Galilei](https://www.pinterest.com/pin/631489179001095449/)
 
 [A Multimedia Tour of the Solar System: One Star, Eight Planets, and More](http://nineplanets.org/)
 
