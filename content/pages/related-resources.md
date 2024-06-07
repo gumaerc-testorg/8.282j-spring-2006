@@ -12,7 +12,7 @@ uid: af4b7bf5-5336-0264-643d-47450ca0d7b1
 
 [Gallery of Galaxy Images](http://www.noao.edu/outreach/aop/observers/galaxy.html)
 
-[The 2df Quasar Survey](http://www.2dfquasar.org/results.html) (Click on "Whole Survey Stacks", then "Rest Frame 20,000 QSOs")
+[The 2df Quasar Survey](http://www.2dfgrs.net/) (Click on "Whole Survey Stacks", then "Rest Frame 20,000 QSOs")
 
 [AGN Images](https://heasarc.gsfc.nasa.gov/docs/cgro/images/epo/gallery/agns/) (Click on "Radio Galaxies")
 
@@ -33,8 +33,6 @@ uid: af4b7bf5-5336-0264-643d-47450ca0d7b1
 [A Multimedia Tour of the Solar System: One Star, Eight Planets, and More](http://nineplanets.org/)
 
 [Constants](http://www.chemie.fu-berlin.de/chemistry/general/constants_en.html)
-
-[Fundamental Constants and Planetary Data](http://www.astro.wisc.edu/~dolan/constants.html)
 
 [Formation Movies by Professor Max Tegmark](http://en.wikipedia.org/wiki/Stuart_Hameroff)
 
