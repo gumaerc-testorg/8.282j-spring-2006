@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains graphs showing the position of photons.
 file: /courses/8-282j-introduction-to-astronomy-spring-2006/be972cc39f16e2639620a1780247121c_photon_trajec.pdf
+file_size: 43580
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
