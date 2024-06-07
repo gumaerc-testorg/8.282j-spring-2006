@@ -5,6 +5,7 @@ description: 'This file contains problems related to the topics integrating the 
   equation, tabulating some physical properties of polytropes and model of the Sun
   in set 2.'
 file: /courses/8-282j-introduction-to-astronomy-spring-2006/d8aeb5ab67c6abfc2a8543edea1c9d68_compset2.pdf
+file_size: 80220
 file_type: application/pdf
 learning_resource_types:
 - Assignments

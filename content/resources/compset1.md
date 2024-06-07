@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains problems to be computed in problem set 1.
 file: /courses/8-282j-introduction-to-astronomy-spring-2006/648cbfa1ac01e272a3ccfbb3ecb2f2f2_compset1.pdf
+file_size: 80875
 file_type: application/pdf
 learning_resource_types:
 - Assignments

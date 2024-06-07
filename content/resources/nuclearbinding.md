@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains a graph showing mass excess per nucleon.
 file: /courses/8-282j-introduction-to-astronomy-spring-2006/26fde55ad1b1d374bf95563719406f3e_nuclearbinding.pdf
+file_size: 24741
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

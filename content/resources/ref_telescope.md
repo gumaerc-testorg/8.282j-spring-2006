@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information about the magnification of the telescope.
 file: /courses/8-282j-introduction-to-astronomy-spring-2006/efad01a895b7b74914bfbcb0f874047f_ref_telescope.pdf
+file_size: 15112
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

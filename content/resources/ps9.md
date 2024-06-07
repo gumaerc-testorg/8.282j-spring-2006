@@ -5,6 +5,7 @@ description: This file contains problems based on dimensional analysis of equati
   giant branch, mean density of collapsed stars, cooling white dwarf, maximum rotation
   rate for a pulsar, pulsar spin-down and blackbody radiation from a neutron star.
 file: /courses/8-282j-introduction-to-astronomy-spring-2006/6160efb985b5899420da023d6177f725_ps9.pdf
+file_size: 952735
 file_type: application/pdf
 learning_resource_types:
 - Assignments
