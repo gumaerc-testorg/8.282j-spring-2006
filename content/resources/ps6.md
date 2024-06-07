@@ -5,6 +5,7 @@ description: This file contains problems based on magnitudes, planck distributio
   & Gregory, short questions on spectral types, eclipsing binary and binary radio
   pulsar.
 file: /courses/8-282j-introduction-to-astronomy-spring-2006/dd75ee9c328c56def95c7ea794170ec5_ps6.pdf
+file_size: 1006922
 file_type: application/pdf
 learning_resource_types:
 - Assignments

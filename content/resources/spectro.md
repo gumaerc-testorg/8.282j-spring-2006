@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains enery level diagram for the hydrogen atom.
 file: /courses/8-282j-introduction-to-astronomy-spring-2006/0fea07673b4a2b4b37ae0491398123f0_spectro.pdf
+file_size: 39347
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

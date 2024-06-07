@@ -7,6 +7,7 @@ description: 'This file contains problems based on short problems on the sensiti
   of the energy levels of the hydrogen atom, short optics problems and Snell?s law
   derived from Fermat?s principle.'
 file: /courses/8-282j-introduction-to-astronomy-spring-2006/227bf4c595f21e5fd51332638c6d6daf_ps4.pdf
+file_size: 138825
 file_type: application/pdf
 learning_resource_types:
 - Assignments

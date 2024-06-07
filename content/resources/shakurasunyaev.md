@@ -5,6 +5,7 @@ description: 'This file contains topics: a figure showing slice of a thin Kepler
   vertical pressure balance, conservation of energy, radiative transport, equation
   of state, opacities, gas pressure and radiation pressure.'
 file: /courses/8-282j-introduction-to-astronomy-spring-2006/24e07e53f04cd1adcbbd68550808bdb2_shakurasunyaev.pdf
+file_size: 389282
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
