@@ -10,7 +10,7 @@ uid: af4b7bf5-5336-0264-643d-47450ca0d7b1
 ---
 [Astronomy Picture of the Day](http://antwrp.gsfc.nasa.gov/apod/astropix.html) (APOD)
 
-[Gallery of Galaxy Images](http://www.noao.edu/outreach/aop/observers/galaxy.html)
+[Gallery of Galaxy Images](https://web.archive.org/web/20060721031258/http://www.noao.edu/outreach/aop/observers/galaxy.html)
 
 [The 2df Quasar Survey](http://www.2dfgrs.net/) (Click on "Whole Survey Stacks", then "Rest Frame 20,000 QSOs")
 
@@ -18,7 +18,7 @@ uid: af4b7bf5-5336-0264-643d-47450ca0d7b1
 
 [Biographical Sketch of Astronomer Nicolaus Copernicus](http://www.phy.hr/~dpaar/fizicari/xcopern.html)
 
-[Biographical Sketch of Astronomer Tycho Brahe](http://es.rice.edu/ES/humsoc/Galileo/People/tycho_brahe.html)
+[Biographical Sketch of Astronomer Tycho Brahe](http://galileo.rice.edu/sci/brahe.html)
 
 [Biographical Sketch of Astronomer Galileo Galilei](http://galileo.imss.firenze.it/)
 
