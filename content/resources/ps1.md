@@ -4,7 +4,7 @@ description: This file contains problems based on Aristarchus? method of determi
   the distance to the moon, Aristarchus? method of determining the distance to the
   sun, accuracy of parallax measurements of stars, distances to the four closest stars,
   practice with angles, solar power and power output.
-file: /courses/8-282j-introduction-to-astronomy-spring-2006/e355add7e9bf77a818059d1f94981ebe_ps1.pdf
+file: /ol-ocw-studio-app/courses/8-282j-introduction-to-astronomy-spring-2006/e355add7e9bf77a818059d1f94981ebe_ps1.pdf
 file_size: 85382
 file_type: application/pdf
 learning_resource_types:

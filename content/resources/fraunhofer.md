@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains topics: two narrow slits, single slit of finite width,
   arbitrary mask and two-dimensional masks.'
-file: /courses/8-282j-introduction-to-astronomy-spring-2006/72b140bfd3682456a6f316d8a5759d7e_fraunhofer.pdf
+file: /ol-ocw-studio-app/courses/8-282j-introduction-to-astronomy-spring-2006/72b140bfd3682456a6f316d8a5759d7e_fraunhofer.pdf
 file_size: 317925
 file_type: application/pdf
 learning_resource_types: []

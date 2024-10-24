@@ -4,7 +4,7 @@ description: 'This file contains problems based on derivation of the Stefan-Bolt
 
   and Wien Radiation laws, short answer questions on magnitudes, moving cluster method-the
   hyades cluster, binary orbit 1, 2, 3 and 4.'
-file: /courses/8-282j-introduction-to-astronomy-spring-2006/a41fab3302e50f29c7007f0191355fdc_ps5.pdf
+file: /ol-ocw-studio-app/courses/8-282j-introduction-to-astronomy-spring-2006/a41fab3302e50f29c7007f0191355fdc_ps5.pdf
 file_size: 769213
 file_type: application/pdf
 learning_resource_types:
