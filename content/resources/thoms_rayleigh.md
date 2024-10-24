@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains topics: equation of motion for the electron, scaterring
   cross section and Rayleigh Scattering.'
-file: /courses/8-282j-introduction-to-astronomy-spring-2006/7417b936f2e0e22d07386d651df429e5_thoms_rayleigh.pdf
+file: /ol-ocw-studio-app/courses/8-282j-introduction-to-astronomy-spring-2006/7417b936f2e0e22d07386d651df429e5_thoms_rayleigh.pdf
 file_size: 47400
 file_type: application/pdf
 learning_resource_types: []

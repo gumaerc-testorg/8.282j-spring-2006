@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains problems based on  eccentric orbits, doppler effect,
   determination of the AU from doppler shifts, determining the mass of a neutron star,
   planetary orbital periods, refraction and optics problem.
-file: /courses/8-282j-introduction-to-astronomy-spring-2006/0c2abfdb3d15998574e199d4294e5475_ps3.pdf
+file: /ol-ocw-studio-app/courses/8-282j-introduction-to-astronomy-spring-2006/0c2abfdb3d15998574e199d4294e5475_ps3.pdf
 file_size: 353068
 file_type: application/pdf
 learning_resource_types:
