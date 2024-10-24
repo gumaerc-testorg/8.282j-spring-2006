@@ -4,7 +4,7 @@ description: This file contains problems based on magnitudes, planck distributio
   the visual and spectroscopic binary sirius A and B, short binary problems from Zeilik
   & Gregory, short questions on spectral types, eclipsing binary and binary radio
   pulsar.
-file: /courses/8-282j-introduction-to-astronomy-spring-2006/dd75ee9c328c56def95c7ea794170ec5_ps6.pdf
+file: /ol-ocw-studio-app/courses/8-282j-introduction-to-astronomy-spring-2006/dd75ee9c328c56def95c7ea794170ec5_ps6.pdf
 file_size: 1006922
 file_type: application/pdf
 learning_resource_types:
