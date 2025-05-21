@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains solutions to the problems in 2003 quiz 2.
-file: /ol-ocw-studio-app/courses/8-282j-introduction-to-astronomy-spring-2006/3eba433e3fff19933c73aa3f9311106c_q2_03_soln.pdf
+file: /courses/8-282j-introduction-to-astronomy-spring-2006/3eba433e3fff19933c73aa3f9311106c_q2_03_soln.pdf
 file_size: 355980
 file_type: application/pdf
 learning_resource_types:

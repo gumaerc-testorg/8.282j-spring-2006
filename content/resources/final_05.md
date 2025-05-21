@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains problems in 2005 final exam.
-file: /ol-ocw-studio-app/courses/8-282j-introduction-to-astronomy-spring-2006/c216e453cf1389a135ce63283cb8bc20_final_05.pdf
+file: /courses/8-282j-introduction-to-astronomy-spring-2006/c216e453cf1389a135ce63283cb8bc20_final_05.pdf
 file_size: 632086
 file_type: application/pdf
 learning_resource_types:
