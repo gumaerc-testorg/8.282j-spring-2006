@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains problems based on constructing the galactic rotation
   curve, Oort constants, kinematic distances, simplified model of a star, fueling
   the sun, main-sequence lifetimes, nuclear binding energies.
-file: /ol-ocw-studio-app/courses/8-282j-introduction-to-astronomy-spring-2006/bc0a3b70f74b210303c84e5ea3d535c2_ps8.pdf
+file: /courses/8-282j-introduction-to-astronomy-spring-2006/bc0a3b70f74b210303c84e5ea3d535c2_ps8.pdf
 file_size: 311380
 file_type: application/pdf
 learning_resource_types:

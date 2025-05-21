@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains topics: X-Ray reflection, plasma frequency and frequency
   of X-Ray.'
-file: /ol-ocw-studio-app/courses/8-282j-introduction-to-astronomy-spring-2006/7116e29c1ca6dd07f798c7486a77bbe4_xray_ref.pdf
+file: /courses/8-282j-introduction-to-astronomy-spring-2006/7116e29c1ca6dd07f798c7486a77bbe4_xray_ref.pdf
 file_size: 367283
 file_type: application/pdf
 learning_resource_types: []

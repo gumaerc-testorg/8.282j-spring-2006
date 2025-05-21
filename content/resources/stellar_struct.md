@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains stellar structure equations.
-file: /ol-ocw-studio-app/courses/8-282j-introduction-to-astronomy-spring-2006/b8d6cfaddf51e50c4aba9ffbd80b53c3_stellar_struct.pdf
+file: /courses/8-282j-introduction-to-astronomy-spring-2006/b8d6cfaddf51e50c4aba9ffbd80b53c3_stellar_struct.pdf
 file_size: 14825
 file_type: application/pdf
 learning_resource_types: []
