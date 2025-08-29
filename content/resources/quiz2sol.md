@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-282j-introduction-to-astronomy-spring-2006/c3a3835c412fb6eae97ad06bc3756187_quiz2sol.pdf
+file: /ol-ocw-studio-app/courses/8-282j-introduction-to-astronomy-spring-2006/c3a3835c412fb6eae97ad06bc3756187_quiz2sol.pdf
 file_size: 231290
 file_type: application/pdf
 learning_resource_types:

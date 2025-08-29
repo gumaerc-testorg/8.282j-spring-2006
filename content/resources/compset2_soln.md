@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains solutions to th problems in set 2.
-file: /courses/8-282j-introduction-to-astronomy-spring-2006/8534dd22a013fe52a32e5fb8b0c34016_compset2_soln.pdf
+file: /ol-ocw-studio-app/courses/8-282j-introduction-to-astronomy-spring-2006/8534dd22a013fe52a32e5fb8b0c34016_compset2_soln.pdf
 file_size: 1673257
 file_type: application/pdf
 learning_resource_types:
