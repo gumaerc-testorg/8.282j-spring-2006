@@ -270,7 +270,7 @@ Dust in the Universe
 ({{% resource_link "beb4a38a-3dd6-2b4e-e426-081a0ba05e2b" "PDF" %}})
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-The following computational problem sets are optional. For reference on the Runge-Kutta method of numerical integration, please see [Numerical Recipes in Fortran](https://archive.org/details/numericalrecipes0000unse_h4c5), Chapter 16.1.
+The following computational problem sets are optional. For reference on the Runge-Kutta method of numerical integration, please see {{% resource_link "fa3f749d-ecad-454b-82ff-c563142495dd" "Numerical Recipes in Fortran" %}}, Chapter 16.1.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 OPTIONAL ASSIGNMENT
