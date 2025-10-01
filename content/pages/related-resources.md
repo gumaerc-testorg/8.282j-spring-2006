@@ -8,40 +8,40 @@ ocw_type: CourseSection
 title: Related Resources
 uid: af4b7bf5-5336-0264-643d-47450ca0d7b1
 ---
-[Astronomy Picture of the Day](http://antwrp.gsfc.nasa.gov/apod/astropix.html) (APOD)
+{{% resource_link "89ae14a5-cd61-43f9-884c-fc8c902e38ed" "Astronomy Picture of the Day" %}} (APOD)
 
-[Gallery of Galaxy Images](https://web.archive.org/web/20060721031258/http://www.noao.edu/outreach/aop/observers/galaxy.html)
+{{% resource_link "7805b675-ca12-4c37-850f-54a9a3113409" "Gallery of Galaxy Images" %}}
 
-[The 2df Quasar Survey](http://www.2dfgrs.net/) (Click on "Whole Survey Stacks", then "Rest Frame 20,000 QSOs")
+{{% resource_link "01d3c19e-2b3b-42f4-b0c6-3e4c98d6e4be" "The 2df Quasar Survey" %}} (Click on "Whole Survey Stacks", then "Rest Frame 20,000 QSOs")
 
-[AGN Images](https://heasarc.gsfc.nasa.gov/docs/cgro/images/epo/gallery/agns/) (Click on "Radio Galaxies")
+{{% resource_link "799298bb-6c7a-414d-a976-bb3874f2085f" "AGN Images" %}} (Click on "Radio Galaxies")
 
-[Biographical Sketch of Astronomer Nicolaus Copernicus](http://www.phy.hr/~dpaar/fizicari/xcopern.html)
+{{% resource_link "223efa93-815d-4f4e-8650-e3019f17f48c" "Biographical Sketch of Astronomer Nicolaus Copernicus" %}}
 
-[Biographical Sketch of Astronomer Tycho Brahe](http://galileo.rice.edu/sci/brahe.html)
+{{% resource_link "c14425b2-a1ee-4839-9ce0-b58deeaae14a" "Biographical Sketch of Astronomer Tycho Brahe" %}}
 
-[Biographical Sketch of Astronomer Galileo Galilei](http://galileo.imss.firenze.it/)
+{{% resource_link "ed508866-0366-4000-9fc0-f165618d968a" "Biographical Sketch of Astronomer Galileo Galilei" %}}
 
-[Biographical Sketch of Astronomer Johannes Kepler](http://www.phy.hr/~dpaar/fizicari/xkepler.html)
+{{% resource_link "6a61a89b-4f99-4a02-95e1-5496ffa200a9" "Biographical Sketch of Astronomer Johannes Kepler" %}}
 
-[Biographical Sketch of Astronomer Sir Isaac Newton](http://www.phy.hr/~dpaar/fizicari/xnewton.html)
+{{% resource_link "89f3e87e-7865-42b7-9fce-475805b8fb6c" "Biographical Sketch of Astronomer Sir Isaac Newton" %}}
 
-[Instruments of Astronomer Tycho Brahe](http://www.juliantrubin.com/bigten/tycho_brahe.html)
+{{% resource_link "b2a6b905-8d59-461b-a0a0-f730e37efb50" "Instruments of Astronomer Tycho Brahe" %}}
 
-[Sketches of Astronomer Galileo Galilei](https://www.pinterest.com/pin/631489179001095449/)
+{{% resource_link "d59cd9f8-8883-405d-ab7c-fa7d256bdbfc" "Sketches of Astronomer Galileo Galilei" %}}
 
-[A Multimedia Tour of the Solar System: One Star, Eight Planets, and More](http://nineplanets.org/)
+{{% resource_link "8a82d570-bc69-4f50-9aaa-62b5d48fa332" "A Multimedia Tour of the Solar System: One Star, Eight Planets, and More" %}}
 
-[Constants](http://www.chemie.fu-berlin.de/chemistry/general/constants_en.html)
+{{% resource_link "e235ac8b-7c83-43f0-8ed2-de2d45c42ffb" "Constants" %}}
 
-[Formation Movies by Professor Max Tegmark](http://en.wikipedia.org/wiki/Stuart_Hameroff)
+{{% resource_link "19618591-64d4-4e5d-9497-45d295958e15" "Formation Movies by Professor Max Tegmark" %}}
 
-[Astrophysics Data System](http://adsabs.harvard.edu/abstract_service.html) (ADS)
+{{% resource_link "b348e780-bce9-4ac3-8cd8-2485af8b1ace" "Astrophysics Data System" %}} (ADS)
 
-[Astro-ph](http://arxiv.org/list/astro-ph/recent)
+{{% resource_link "13e15a6d-fd98-4f0c-b746-e5f738b1850b" "Astro-ph" %}}
 
-[Chandra X-Ray Observatory](http://chandra.harvard.edu/photo/)
+{{% resource_link "f573fe08-98c2-4858-82cd-140071bed891" "Chandra X-Ray Observatory" %}}
 
-[NRAO Radio Images](http://www.cv.nrao.edu/%7Eabridle/images.htm)
+{{% resource_link "cf598e8d-2875-4a43-b8a2-acc3e7734083" "NRAO Radio Images" %}}
 
-[Huygen's Principle Applet - Reflection and Refraction](https://www.walter-fendt.de/html5/phen/refractionhuygens_en.htm)
+{{% resource_link "caa9cfee-9a51-4f9f-b2e7-0953ebf357a3" "Huygen's Principle Applet - Reflection and Refraction" %}}
